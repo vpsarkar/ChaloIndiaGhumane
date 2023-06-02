@@ -8,6 +8,6 @@ public class RailwaysController {
 
     @GetMapping("/mytrain")
     public String getData() {
-        return "Please book your train ticket PUNE - GOA";
+        return "Please book your train-MH exp ticket ";
     }
 }
